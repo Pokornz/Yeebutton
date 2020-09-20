@@ -6,7 +6,7 @@
 
 int butts[4] = {0,14,12,13};
 // GPIO pins   D3,D5,D6,D7
-const byte ip[4] = {192, 168, 20, 114}; \\ use the python script to find out the IP and port number
+const byte ip[4] = {192, 168, 20, 114}; // use the Python script to find out the IP and port number
 const int port = 55443;
 
 void setup() {
